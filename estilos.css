@@ -1,0 +1,80 @@
+#bg{
+
+    background-color: #210f25;
+    background-image: url('imagens/pikrepo.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    
+
+}
+
+#tit{
+
+    font-weight: bold 600px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+#text{
+
+    font-size: 1.2em;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+#titp{
+
+    color: white;
+    font-size: medium;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+#pk{
+
+    font-size: 1.1em;
+    color: #EF80FF;
+    font-weight: bold;
+
+}
+
+.mtit{
+
+    font-weight: bold;
+    font-size: 1.3em;
+    font-family: 'Courier New', Courier, monospace;
+    color: whitesmoke;
+
+}
+
+.pimg{
+
+    height: 300px;
+    width: 300px;
+    /* align-content: center;
+    object-position:center; */
+
+}
+
+#tab{
+
+    border: 2px solid white;
+
+}
+
+.marg{
+
+    margin-right: 30px;
+
+}
+
+/* .ptd{
+     
+    margin-left: auto;
+    margin-right: auto;
+
+} */
+
